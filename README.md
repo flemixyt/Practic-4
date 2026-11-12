@@ -5,7 +5,7 @@ Status: "Active"
 Author: "УПМ 2"
 Tags: [android, beginner, java, layout, intent, view-binding, tutorial]
 ---
-# Практическая работа №4 @flemixyt:
+# 📋 ПРАКТИЧЕСКАЯ РАБОТА №4 @flemixyt
 
 ## 📋 Содержание
 
